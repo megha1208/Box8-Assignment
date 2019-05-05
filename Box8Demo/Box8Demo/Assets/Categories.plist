@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Caption</key>
+		<string>FUSION BOX</string>
+		<key>Photo</key>
+		<string>Fusion Box</string>
+		<key>Menu</key>
+		<array>
+			<dict>
+				<key>Item</key>
+				<string>Dal Makhni Rice Box</string>
+				<key>Item Photo</key>
+				<string>Dal Makhni Rice Box</string>
+				<key>Description</key>
+				<string>Creamy Dal Makhni with Rice + Salad + Mint Chutney + Garlic yogurt. The most satisfying meal ever!</string>
+				<key>Price</key>
+				<string>148</string>
+			</dict>
+			<dict>
+				<key>Item</key>
+				<string>Amritsari Chole Chawal Box</string>
+				<key>Item Photo</key>
+				<string>Amritsari Chole Chawal Box</string>
+				<key>Description</key>
+				<string>Authentic Amritsari Chole with Rice + Salad + Mint Chutney + Garlic yogurt.</string>
+				<key>Price</key>
+				<string>148</string>
+			</dict>
+			<dict>
+				<key>Item</key>
+				<string>Kebab Peshawari Box</string>
+				<key>Item Photo</key>
+				<string>Kebab Peshawari Box</string>
+				<key>Description</key>
+				<string>Succulent &amp; Spicy Peshawari Kebabs in Desi Masala Curry; Served with Rice + Salad + Mint Chutney + Garlic yogurt.</string>
+				<key>Price</key>
+				<string>178</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Caption</key>
+		<string>CURRIES</string>
+		<key>Photo</key>
+		<string>Curries</string>
+		<key>Menu</key>
+		<array>
+			<dict>
+				<key>Item</key>
+				<string>Basmati Rice</string>
+				<key>Item Photo</key>
+				<string>Basmati Rice</string>
+				<key>Description</key>
+				<string>Extra long grain Basmati Rice steamed with mild &amp; aromatic Desi herbs | Seerves 2</string>
+				<key>Price</key>
+				<string>98</string>
+			</dict>
+			<dict>
+				<key>Item</key>
+				<string>Tawa Paratha</string>
+				<key>Item Photo</key>
+				<string>Tawa Paratha</string>
+				<key>Description</key>
+				<string>Garma - Garam soft whole wheat parathas made in Desi ghee</string>
+				<key>Price</key>
+				<string>58</string>
+			</dict>
+			<dict>
+				<key>Item</key>
+				<string>Dal Makhni</string>
+				<key>Item Photo</key>
+				<string>Dal Makhni</string>
+				<key>Description</key>
+				<string>Our Dal Makhni is slow cooked overnight with whole spices &amp; fresh cream. As traditional as it gets! | Serves 2</string>
+				<key>Price</key>
+				<string>198</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Caption</key>
+		<string>BIRYANI</string>
+		<key>Photo</key>
+		<string>Biryani</string>
+		<key>Menu</key>
+		<array>
+			<dict>
+				<key>Item</key>
+				<string>Firangi Subz Biryani</string>
+				<key>Item Photo</key>
+				<string>Firangi Subz Biryani</string>
+				<key>Description</key>
+				<string>Baby corn, mushroom &amp; paneer cooked in biryani masala &amp; layered over fragnant basmati rice. A mind blowing fusion! Served with Raita</string>
+				<key>Price</key>
+				<string>198</string>
+			</dict>
+			<dict>
+				<key>Item</key>
+				<string>Murg Dum Biryani</string>
+				<key>Item Photo</key>
+				<string>Murg Dum Biryani</string>
+				<key>Description</key>
+				<string>Succulent chicken (boneless) layered over aromatic super-long grain rice, slow cooked in quintessential dum style! Served with Raita</string>
+				<key>Price</key>
+				<string>228</string>
+			</dict>
+			<dict>
+				<key>Item</key>
+				<string>Chicken Tikka Biryani</string>
+				<key>Item Photo</key>
+				<string>Chicken Tikka Biryani</string>
+				<key>Description</key>
+				<string>Smoked Chicken-Tikkaslow cooked with fragnant basmatice rice &amp; whole spices. A truly novel experience! Served with Raita.</string>
+				<key>Price</key>
+				<string>258</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Caption</key>
+		<string>WRAPS</string>
+		<key>Photo</key>
+		<string>Wraps</string>
+		<key>Menu</key>
+		<array>
+			<dict>
+				<key>Item</key>
+				<string>Mayo Tikki Wrap</string>
+				<key>Item Photo</key>
+				<string>Mayo Tikki Wrap</string>
+				<key>Description</key>
+				<string>Crispy &apos;Grilled&apos; veg tikki topped generously with Mayo &amp; exotic veggies &amp; wrapped in a whole wheat paratha. Lip Smacking!</string>
+				<key>Price</key>
+				<string>88</string>
+			</dict>
+			<dict>
+				<key>Item</key>
+				<string>Chicken Mayo Wrap</string>
+				<key>Item Photo</key>
+				<string>Chicken Mayo Wrap</string>
+				<key>Description</key>
+				<string>Loaded with fire Grilled Chicken topped with a generous portion of Mayo &amp; the perfect amount of cruncy veggies.</string>
+				<key>Price</key>
+				<string>138</string>
+			</dict>
+			<dict>
+				<key>Item</key>
+				<string>Chicken XXL Wrap</string>
+				<key>Item Photo</key>
+				<string>Chicken XXL Wrap</string>
+				<key>Description</key>
+				<string>Overloaded with Chicken! Chicken Tikka, Chicken Kebab, Char Grilled Chicken all together in one Big Wrap!</string>
+				<key>Price</key>
+				<string>178</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Caption</key>
+		<string>DESERT</string>
+		<key>Photo</key>
+		<string>Desert</string>
+		<key>Menu</key>
+		<array>
+			<dict>
+				<key>Item</key>
+				<string>Gharwala Gajar Halwa</string>
+				<key>Item Photo</key>
+				<string>Gharwala Gajar Halwa</string>
+				<key>Description</key>
+				<string>Garma - Garam Gajar Halwa made with fresh seasonal gajar, desi ghee, premium dry fruits &amp; Mom&apos;s love. It will take you back home this winter!</string>
+				<key>Price</key>
+				<string>68</string>
+			</dict>
+			<dict>
+				<key>Item</key>
+				<string>Aamras In A Jar</string>
+				<key>Item Photo</key>
+				<string>Aamras In A Jar</string>
+				<key>Description</key>
+				<string>Indulge in the ultimate summer delicacy made with fresh juicy mangoes. Let it take you back to the sunny summer days of childhood.</string>
+				<key>Price</key>
+				<string>58</string>
+			</dict>
+			<dict>
+				<key>Item</key>
+				<string>Choco Lava Cake</string>
+				<key>Item Photo</key>
+				<string>Choco Lava Cake</string>
+				<key>Description</key>
+				<string>Ooey Gooey  desert , with a knockout punch of real molten chocolaty center. Heaven for all chocolate lovers.</string>
+				<key>Price</key>
+				<string>78</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
